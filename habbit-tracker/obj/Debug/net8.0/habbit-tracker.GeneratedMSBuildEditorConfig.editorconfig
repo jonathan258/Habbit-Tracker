@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = habbit_tracker
-build_property.ProjectDir = c:\Users\campb\Documents\Habbit-Tracker\habbit-tracker\
+build_property.ProjectDir = C:\Users\campb\Documents\Habbit-Tracker\habbit-tracker\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
